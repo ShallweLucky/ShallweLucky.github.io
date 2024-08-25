@@ -1,0 +1,3 @@
+# 🔥 News
+- *2024.03*: &nbsp;🌟 Successfully presented our research on reinforcement adversarial frameworks for ICS safety at ICCAE 2024. Looking forward to furthering this research based on the insights gained from the conference.
+- *2023.11*: &nbsp;🎉🎉  Our paper "A Reinforcement Adversarial Framework Targeting Endogenous Functional Safety in ICS: Applied to Tennessee Eastman Process" has been accepted for presentation at the 16th International Conference on Computer and Automation Engineering (ICCAE 2024). The paper will be included in the conference proceedings and published in the IEEE Xplore Digital Library. Special thanks to Prof. Yulong Ding and Prof. Shuang-Hua Yang for their invaluable guidance.

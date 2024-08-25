@@ -1,0 +1,5 @@
+# ✍️ Biography
+
+Xinyi received her M.Eng. degree in Electronic Science and Technology from the Department of Computer Science and Engineering at Southern University of Science and Technology(SUSTech) in June 2024, under the guidance of <a href='https://faculty.sustech.edu.cn/dingyl/en/'>Prof. Yulong Ding</a> and <a href="https://www.reading.ac.uk/computer-science/staff/professor-shuang-hua-yang">Prof. Shuang-Hua Yang</a>. Prior to this, she graduated top of her class with B.Eng. degree in Network Engineering from College of Computer Science and Technology at Huaqiao University in June 2021.  During this time, she was honored as one of the Outstanding Graduates and was advised by <a href="https://faculty.hqu.edu.cn/hanyu/en/index.htm">Lecturer Hanyu Quan</a>.
+
+<!-- Xinyi's research interests are in the areas of safety and security in Industrial Internet, the applicaitons of reinfocement learning in industrial domain. -->
