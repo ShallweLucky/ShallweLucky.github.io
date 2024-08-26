@@ -4,4 +4,3 @@
 - *2023.07 - 2024.02*, **Shenzhen Shuang'an Technology Co., Ltd.**
     - Intern \| Web Development
 
-<p align="right"><strong> Last Updated Aug. 2024</strong></p>

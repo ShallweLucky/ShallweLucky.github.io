@@ -36,3 +36,7 @@ redirect_from:
 {% include_relative includes/educations.md %}
 
 {% include_relative includes/work_experience.md %}
+
+{% include_relative includes/skills.md %}
+
+{% include_relative includes/updated.md %}
