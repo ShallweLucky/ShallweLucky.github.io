@@ -1,3 +1,4 @@
 # 🤖 Research Interests
-- Safety and security in Industrial Internet
-- Applications of reinforcement learning in industrial domains
+- Intelligent wearable design
+- Soft robotics
+- Physical mechanisms of electronic materials
