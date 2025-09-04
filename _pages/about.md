@@ -69,6 +69,8 @@ redirect_from:
 
 {% include_relative includes/research_experience.md %} 
 
+{% include_relative includes/work_experience.md %}
+
 {% if site.show_sections.updated %}
   {% include_relative includes/updated.md %}
 {% endif %}
