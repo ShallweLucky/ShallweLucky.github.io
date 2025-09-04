@@ -17,26 +17,50 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-{% include_relative includes/welcome.md %}
+{% if site.show_sections.welcome %}
+  {% include_relative includes/welcome.md %}
+{% endif %}
 
-{% include_relative includes/biography.md %}
+{% if site.show_sections.biography %}
+  {% include_relative includes/biography.md %}
+{% endif %}
 
-{% include_relative includes/research_interest.md %}
+{% if site.show_sections.research_interest %}
+  {% include_relative includes/research_interest.md %}
+{% endif %}
 
-#{% include_relative includes/news.md %}
+{% if site.show_sections.news %}
+  {% include_relative includes/news.md %}
+{% endif %}
 
-#{% include_relative includes/publications.md %}
+{% if site.show_sections.publications %}
+  {% include_relative includes/publications.md %}
+{% endif %}
 
-{% include_relative includes/research_experience.md %}
+{% if site.show_sections.research_experience %}
+  {% include_relative includes/research_experience.md %}
+{% endif %}
 
-#{% include_relative includes/projects.md %}
+{% if site.show_sections.projects %}
+  {% include_relative includes/projects.md %}
+{% endif %}
 
-#{% include_relative includes/honors_and_rewards.md %}
+{% if site.show_sections.honors_and_rewards %}
+  {% include_relative includes/honors_and_rewards.md %}
+{% endif %}
 
-#{% include_relative includes/educations.md %}
+{% if site.show_sections.educations %}
+  {% include_relative includes/educations.md %}
+{% endif %}
 
-#{% include_relative includes/work_experience.md %}
+{% if site.show_sections.work_experience %}
+  {% include_relative includes/work_experience.md %}
+{% endif %}
 
-#{% include_relative includes/skills.md %}
+{% if site.show_sections.skills %}
+  {% include_relative includes/skills.md %}
+{% endif %}
 
-{% include_relative includes/updated.md %}
+{% if site.show_sections.updated %}
+  {% include_relative includes/updated.md %}
+{% endif %}
