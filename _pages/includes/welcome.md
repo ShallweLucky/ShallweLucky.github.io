@@ -1,4 +1,4 @@
-# 👏 Welcome to Xinyi's Academic Homepage
+# 👏 Welcome to Shallwe's Academic Homepage
 
-Hey! You found me! I'm Xinyi WU, a recent master's graduate from the Department of Computer Science and Engineering at Southern University of Science and Technology(SUSTech), currently working as an engineer at <img src='images/Klook-Logo.jpg' alt="klook" style='width: 4em;'>.
+Hey! You found me! I'm Xumin WEI, a recent master's graduate from Southern University of Science and Technology(SUSTech), currently working as an software engineer at <img src='images/CNPCicon.png' alt="CNPC" style='width: 4em;'>.
 
