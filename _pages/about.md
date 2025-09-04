@@ -23,20 +23,20 @@ redirect_from:
 
 {% include_relative includes/research_interest.md %}
 
-{% include_relative includes/news.md %}
+#{% include_relative includes/news.md %}
 
-{% include_relative includes/publications.md %}
+#{% include_relative includes/publications.md %}
 
 {% include_relative includes/research_experience.md %}
 
-{% include_relative includes/projects.md %}
+#{% include_relative includes/projects.md %}
 
-{% include_relative includes/honors_and_rewards.md %}
+#{% include_relative includes/honors_and_rewards.md %}
 
-{% include_relative includes/educations.md %}
+#{% include_relative includes/educations.md %}
 
-{% include_relative includes/work_experience.md %}
+#{% include_relative includes/work_experience.md %}
 
-{% include_relative includes/skills.md %}
+#{% include_relative includes/skills.md %}
 
 {% include_relative includes/updated.md %}
