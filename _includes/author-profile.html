@@ -12,6 +12,12 @@
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
+  {% if author.cv_url %}
+  <a href="{{ author.cv_url }}" target="_blank"
+     style="display:inline-block; padding:8px 16px; background:#d3d3d3; color:#000; border-radius:6px; text-decoration:none; font-weight:500; margin-top:10px;">
+     Download CV
+  </a>
+  {% endif %}
 
   <div class="author__urls-wrapper">
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
