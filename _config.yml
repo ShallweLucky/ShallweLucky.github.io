@@ -174,7 +174,7 @@ show_sections:
   publications: false
   research_experience: false
   projects: false
-  honors_and_rewards: true
+  honors_and_rewards: false
   educations: false
   work_experience: false
   skills: false
