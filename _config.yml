@@ -167,12 +167,12 @@ compress_html:
 # Section display control
 # 设置每个模块是否显示
 show_sections:
-  welcome: true
-  biography: true
-  research_interest: true
+  welcome: false
+  biography: false
+  research_interest: false
   news: false
   publications: false
-  research_experience: true
+  research_experience: false
   projects: false
   honors_and_rewards: true
   educations: false
