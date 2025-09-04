@@ -1,6 +1,3 @@
 # 💼 Work Experience
-- *2024.07 - Now*, **KLOOK**
-    - Front-End Engineer \| Platfrom Group
-- *2023.07 - 2024.02*, **Shenzhen Shuang'an Technology Co., Ltd.**
-    - Intern \| Web Development
+<embed src="/ResearchDetails3.pdf#toolbar=0&navpanes=0" type="application/pdf" width="100%" height="60px" />
 
