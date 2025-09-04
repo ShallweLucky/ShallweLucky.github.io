@@ -163,3 +163,19 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+# --------------------------------------
+# Section display control
+# 设置每个模块是否显示
+show_sections:
+  welcome: true
+  biography: true
+  research_interest: true
+  news: false
+  publications: false
+  research_experience: true
+  projects: false
+  honors_and_rewards: true
+  educations: false
+  work_experience: false
+  skills: false
+  updated: true
