@@ -61,10 +61,6 @@ redirect_from:
   {% include_relative includes/skills.md %}
 {% endif %}
 
-{% if site.show_sections.updated %}
-  {% include_relative includes/updated.md %}
-{% endif %}
-
 {% include_relative includes/welcome.md %} 
 
 {% include_relative includes/biography.md %} 
@@ -72,5 +68,11 @@ redirect_from:
 {% include_relative includes/research_interest.md %} 
 
 {% include_relative includes/research_experience.md %} 
+
+{% if site.show_sections.updated %}
+  {% include_relative includes/updated.md %}
+{% endif %}
+
+
 
 
