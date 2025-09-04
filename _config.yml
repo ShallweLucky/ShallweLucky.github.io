@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xumin WEI"
-description              : "Engineer in CNPC.<br> M.Eng. graduate, Computer Science and Engineering, SUSTech."
+description              : "Engineer in CNPC.<br> M.Eng. graduate, Electronic Science and Technology, SUSTech."
 repository               : "ShallweLucky/Shallwelucky.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,16 +21,16 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xinyi WU|吴欣怡"
-  Chinese_name     : "吴欣怡"
-  english_name     : "Zinnia"
-  avatar           : "images/author_avatar-512x512.png"
-  bio              : "Klook"
-  location         : "Shenzhen, China"
+  name             : "Xumin WEI|危旭敏"
+  Chinese_name     : "危旭敏"
+  english_name     : "Shallwe"
+  avatar           : "images/fig.jpg"
+  bio              : "CNPC"
+  location         : "China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=9azsXjkAAAAJ"
-  email            : "wuxy2021@mail.sustech.edu.cn"
+  googlescholar    : #"https://scholar.google.com/citations?user=9azsXjkAAAAJ"
+  email            : "weixm2021@mail.sustech.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -39,7 +39,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ZinniaWu"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -47,7 +47,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0003-4236-8703"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
