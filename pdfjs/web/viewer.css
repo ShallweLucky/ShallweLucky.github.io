@@ -7267,7 +7267,7 @@ dialog :link{
     inset-inline-start:0 !important;
   }
   /* 隐藏工具栏 */
-  .toolbar, #toolbarContainer {
+  .toolbarHorizontalGroup,.toolbar, #toolbarContainer {
     display: none !important;
   }
 }
@@ -7280,7 +7280,7 @@ dialog :link{
     display:inline-block !important;
   }
   /* 隐藏工具栏 */
-  .toolbar, #toolbarContainer {
+  .toolbarHorizontalGroup,.toolbar, #toolbarContainer {
     display: none !important;
   }
 }
@@ -7295,7 +7295,7 @@ dialog :link{
     width:0;
   }
   /* 隐藏工具栏 */
-  .toolbar, #toolbarContainer {
+  .toolbarHorizontalGroup,.toolbar, #toolbarContainer {
     display: none !important;
   }
 }
@@ -7305,7 +7305,7 @@ dialog :link{
     display:none;
   }
   /* 隐藏工具栏 */
-  .toolbar, #toolbarContainer {
+  .toolbarHorizontalGroup,.toolbar, #toolbarContainer {
     display: none !important;
   }
 }
