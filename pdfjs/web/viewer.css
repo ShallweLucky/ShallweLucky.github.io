@@ -7266,6 +7266,10 @@ dialog :link{
   #outerContainer.sidebarOpen #viewerContainer{
     inset-inline-start:0 !important;
   }
+  /* 隐藏工具栏 */
+  .toolbar, #toolbarContainer {
+    display: none !important;
+  }
 }
 
 @media all and (max-width: 750px){
@@ -7274,6 +7278,10 @@ dialog :link{
   }
   #outerContainer .visibleMediumView:not(.hidden, [hidden]){
     display:inline-block !important;
+  }
+  /* 隐藏工具栏 */
+  .toolbar, #toolbarContainer {
+    display: none !important;
   }
 }
 
@@ -7286,11 +7294,19 @@ dialog :link{
   #toolbarContainer #toolbarViewer .toolbarButtonSpacer{
     width:0;
   }
+  /* 隐藏工具栏 */
+  .toolbar, #toolbarContainer {
+    display: none !important;
+  }
 }
 
 @media all and (max-width: 560px){
   #scaleSelectContainer{
     display:none;
+  }
+  /* 隐藏工具栏 */
+  .toolbar, #toolbarContainer {
+    display: none !important;
   }
 }
 
