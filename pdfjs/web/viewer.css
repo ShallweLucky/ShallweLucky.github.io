@@ -7293,3 +7293,7 @@ dialog :link{
     display:none;
   }
 }
+/* 隐藏顶部工具栏 */
+#toolbarContainer {
+    display: none !important;
+}
