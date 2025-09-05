@@ -4,7 +4,12 @@
 - Prior to this, she graduated top of her class with B.Eng. degree in Materials Science and Technology at Shanghai Maritime University in June 2021. During this time, she got <strong style="color:red;">National Scholarship</strong> and was honored as one of the <strong style="color:red;">Outstanding Graduates in Shanghai</strong>. She was advised by <a href="https://oec.shmtu.edu.cn/2020/1214/c6344a49598/page.htm">Prof. Runhua Fan</a>.
 
 
-<embed src="/BasicInfo.pdf#toolbar=0&navpanes=0" type="application/pdf" width="100%" height="60px" />
+<iframe 
+  src="/pdfjs/web/viewer.html?file=/BasicInfo.pdf#toolbar=0&navpanes=0" 
+  width="100%" 
+  height="600px" 
+  style="border:none;">
+</iframe>
 <!-- Xumin's research interests are in the areas of intelligent wearable design, soft robotics, and Physical mechanisms of electronic materials -->
 
 
