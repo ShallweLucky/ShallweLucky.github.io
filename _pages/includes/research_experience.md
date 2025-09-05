@@ -1,8 +1,8 @@
 # 🔍 Research Experience
 
 <iframe 
-  src="/pdfjs/web/viewer.html?file=/ResearchDetails2.pdf#toolbar=0" 
+  src="/pdfjs/web/viewer.html?file=/ResearchDetails2.pdf#toolbar=0&navpanes=0" 
   width="100%" 
-  height="60px" 
+  height="600px" 
   style="border:none;">
 </iframe>
